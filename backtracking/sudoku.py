@@ -129,4 +129,4 @@ if __name__ == "__main__":
         if solution is not None:
             print_solution(solution)
         else:
-            print("Cannot find a solution.")
+            print("Can't find a solution.")
